@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [DateTimeMeasureUnitsCalculator.cs](./CS/CustomDateTimeMeasureUnitsCalcuslatorSample/DateTimeMeasureUnitsCalculator.cs) (VB: [DateTimeMeasureUnitsCalculator.vb](./VB/CustomDateTimeMeasureUnitsCalcuslatorSample/DateTimeMeasureUnitsCalculator.vb))
+* **[MainWindow.xaml](./CS/CustomDateTimeMeasureUnitsCalcuslatorSample/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/CustomDateTimeMeasureUnitsCalcuslatorSample/MainWindow.xaml))**
+<!-- default file list end -->
 # How to: use a custom date-time measure unit in automatic scale mode
 
 
