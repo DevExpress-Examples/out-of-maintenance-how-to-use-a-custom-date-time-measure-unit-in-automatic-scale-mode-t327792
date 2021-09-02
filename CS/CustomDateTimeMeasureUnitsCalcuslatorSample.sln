@@ -1,5 +1,5 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
+# Visual Studio 2012
 VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomDateTimeMeasureUnitsCalcuslatorSample", "CustomDateTimeMeasureUnitsCalcuslatorSample\CustomDateTimeMeasureUnitsCalcuslatorSample.csproj", "{F0F5D1DF-A557-4A0A-B73C-57E7224B6A42}"
